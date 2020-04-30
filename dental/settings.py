@@ -113,14 +113,7 @@ STATICFILES_DIRS = [
 ]
 
 
-'''
-EMAIL_HOST = 'smtp.google.com'
-EMAIL_PORT = 587
-EMAIL_HOST_USER = 'stuffcreation@gmail.com'
-EMAIL_HOST_PASSWORD = '1Qaz25689'
-EMAIL_USE_TLS = True
-EMAIL_USE_SSL = False
-'''
+
 
 EMAIL_HOST = 'localhost'
 EMAIL_PORT = '1025'
